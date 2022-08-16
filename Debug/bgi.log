@@ -1,0 +1,10 @@
+﻿  ping_pong_game.cpp
+D:\sem1\pf\ping pong final project\ping_pong_game.cpp(43,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\sem1\pf\ping pong final project\ping_pong_game.cpp(350,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\sem1\pf\ping pong final project\ping_pong_game.cpp(370,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\sem1\pf\ping pong final project\ping_pong_game.cpp(389,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\sem1\pf\ping pong final project\ping_pong_game.cpp(409,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\sem1\pf\ping pong final project\ping_pong_game.cpp(319,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\sem1\pf\ping pong final project\ping_pong_game.cpp(322,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\sem1\pf\ping pong final project\ping_pong_game.cpp(334,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bgi.vcxproj -> D:\sem1\pf\ping pong final project\Debug\bgi.exe
