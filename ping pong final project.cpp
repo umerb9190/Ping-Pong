@@ -10,10 +10,7 @@ int um = 0;         //um is to tackle problem for  right boundary
 int speed = 1;
 int m;
 void  members() {
-    char m1[50] = " 1.  M U H A M M A D   U M E R";
-    char m2[50] = " 2.  M U H A M M A D   U S M A N   R A M Z A N";
-    char m3[50] = " 3.  N O U M A N       J A V E D";
-    char m4[50] = " 4.  N A U M A N       N O O R";
+    char m1[50] = " E N T E R   Y O U R   N A M E";
     char m5[200] = " P R E S S   A N Y   K E Y   TO   GO   B A C K   TO   M E N U";
     outtextxy(395, 300, m1);
     outtextxy(395, 320, m2);
