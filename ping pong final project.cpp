@@ -201,9 +201,6 @@ void game() {
                 outtextxy(350, 340, win1);
                 
             }
-            /*char b[100] = " P R E S S   A N Y   K E Y   T O   G O   B A C K   T O   M E N U";
-            outtextxy(350, 370,b);
-            getch();*/
         }
         if (xox == 1)
         {
@@ -306,20 +303,6 @@ void game() {
         if (r == 789 && um == 1) {
             eliminate14(a, b, c, d1);
         }
-
-       /* if (L == 0) {
-            xox = 1;
-        }
-        if (L1 == 0) {
-            xox = 1;
-        }
-        if (xox == 1)
-        {
-            break;
-        }*/
-        //if (k1 == 5 || k2 == 5) {
-        //    speed=2;
-        //}
         if (k1 == 5 || k2 == 5) {
             speed = 2;
             r1 = 2;
